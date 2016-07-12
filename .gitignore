@@ -1,0 +1,5 @@
+.DS_Store
+.zsh/history
+.zsh/cache
+*.zwc*
+.zsh/aliases_w_ignore.zsh
